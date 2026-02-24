@@ -99,6 +99,11 @@ div{
     align-items: center;
 }
 
+.regalito{
+    width: 200px;
+    border-radius: 15px;
+}
+
 footer{
     text-align: center;
     padding: 20px;  
