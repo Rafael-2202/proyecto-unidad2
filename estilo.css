@@ -99,9 +99,21 @@ div{
     align-items: center;
 }
 
+.regalo{
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+    display: none;
+    flex-direction: column;
+}
+
 .regalito{
     width: 200px;
     border-radius: 15px;
+}
+
+.cambio_imagen{
+    padding-bottom: 20px;
 }
 
 footer{
